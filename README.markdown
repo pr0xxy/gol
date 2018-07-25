@@ -6,4 +6,4 @@ The project is a simple multi-module Maven project. To build the whole project, 
 
 Test Build Trigger  <~~~~And remove this
 
-Test Build Trigger  <~~~~Remove this
+Test Build Trigger  <~Remove this
